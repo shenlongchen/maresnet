@@ -6,7 +6,7 @@ The architecture of MAResNet
 ## Dependencies
 
 MAResNet is work under Python 3.8.
-The required dependencies for *MAResNet* are in requirements.txt file.
+The required dependencies for MAResNet are in requirements.txt file.
 
 torchvision==0.9.1      
 pandas==1.2.3
